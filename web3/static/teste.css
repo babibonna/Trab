@@ -1,0 +1,74 @@
+* {
+	font-family:Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+header{
+    text-align:center;
+}
+
+.menu{
+	text-align:center;
+	background-color:#283337;
+	margin:0px;
+	padding: 10px;
+	border-bottom-width:5px;
+	border-bottom-color:#c21d16; 
+	border-bottom-style: solid;
+}
+
+ul li{
+	font-family:Helvetica Neue,Helvetica,Arial,sans-serif;
+	list-style:none;
+	display:inline;
+}	
+
+ul li a{
+	padding: 5px;
+	font-size:12px;
+	text-decoration:none;
+	color:#fff;
+}
+
+ul li a:hover{
+	background-color:#000;
+	padding: 5px;
+	margin: 0 0;
+}
+
+main{
+	height:384px;
+	margin-left:60px;
+	text-align:center;
+	color:black;
+}
+
+input {
+	margin: 5px 0 5px 5px ;	
+}
+
+select{
+	margin: 5px 0 5px 5px ;	
+}
+
+footer{
+    border-top-width:5px;
+	border-top-color:#c21d16;
+	border-top-style: solid;
+    text-align: center;
+    padding:30px;
+    margin: 0 0 ;
+    color:#fff;
+    background-color: #283337; 
+}
+
+.book-del{
+	color:#f22;
+	text-shadow: 1px 1px 1px #333;
+	font-size:1.2em;
+	vertical-align: middle;
+}
+
+imagem2{
+	margin-top:30px;
+}
+}
